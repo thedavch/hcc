@@ -1,25 +1,18 @@
 # Base configs
-baseurl: "https://photography.rampatra.com"
+baseurl: "https://dchen.ml"
 image_fulls_loc: "/images/fulls"
 image_thumbs_loc: "/images/thumbs"
 google_analytics: "UA-46465113-2"
 
 # UI configs
-title: "Photography by Ram Patra"
-subtitle: "See the world through my eyes!"
-author: "Ram Patra"
+title: "Hangchow Christian College (之江大学) Archival Photo Gallery"
+subtitle: "By David Chen (davidchen.cf)"
+author: "David Chen"
 header:
- title: "Photography"
- subtitle: "by Ram Patra"
+ title: "Hangchow Christian College (之江大学)"
+ subtitle: "by David Chen (davidchen.cf)"
 footer:
- name: "Hey there, my name is Ram"
- bio: "I am a developer and a tech aficionado from India. Love making teeny tiny apps solving tiny problems in life and now learning photography."
- github: "Want a website like this for yourself for free? Just <a href=\"https://github.com/ramswaroop/photography\">fork me on github</a> ;)"
-web_design: "AJ"
-social_urls:
-  facebook: "https://www.facebook.com/ramswaroop"
-  twitter: "https://www.twitter.com/ram__patra"
-  instagram: "https://www.instagram.com/ram_patra"
-  dribbble: "https://dribbble.com/rampatra"
-  linkedin: "https://in.linkedin.com/in/ram-patra"
-  github: "https://www.github.com/rampatra"
+ name: "Hey there, my name is David"
+ bio: "Hello! I’m David Chen, thanks for visiting. I'm currently a student at the University of Illinois at Urbana-Champaign majoring in Computer Engineering. I have over 10 years of experience specializing in full stack web development, computer repair, and IT. I'm also an Eagle Scout, avid photographer, and amateur radio operator."
+ github: "On this page are 157 pictures from 1917-1950 of Hangchow Christian College. More information can be found on the original site <a href=\"http://findit.library.yale.edu/?utf8=%E2%9C%93&f%5Bcreator_sim%5D%5B%5D=United+Board+for+Christian+Higher+Education+in+Asia&f%5Bdigital_collection_sim%5D%5B%5D=Divinity+Library+Photographs&search_field=all_fields&q=hangchow\">here</a>. Additional archives can be found <a href=\"https://web.library.yale.edu/divinity/special-collections/ubchea/hangchow-college\">here</a>."
+web_design: "DC"
